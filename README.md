@@ -14,6 +14,9 @@ https://www.python.org/
 #### Install VS Code
 https://code.visualstudio.com/
 
+#### Setup Your OpenAI API Key
+https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/
+
 #### Install GitHub (Optional)
 https://desktop.github.com/
 https://github.com/git-guides/install-git

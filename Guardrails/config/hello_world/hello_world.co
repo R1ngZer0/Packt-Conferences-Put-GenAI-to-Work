@@ -1,0 +1,32 @@
+define user express greeting
+  "Hello"
+  "Hi"
+  "Wassup?"
+
+define bot express greeting
+  "Hey there!"
+
+define bot ask how are you
+  "How are you doing?"
+  "How's it going?"
+  "How are you feeling today?"
+
+define flow greeting
+  user express greeting
+  bot express greeting
+
+define user ask about politics
+  "What do you think about the government?"
+  "Which party should I vote for?"
+
+define user ask about stock market
+  "Which stock should I invest in?"
+  "Would this stock 10x over the next year?"
+
+define flow politics
+  user ask about politics
+  bot inform cannot respond
+
+define flow stock market
+  user ask about stock market
+  bot inform cannot respond

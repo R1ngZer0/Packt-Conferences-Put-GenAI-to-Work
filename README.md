@@ -22,8 +22,10 @@ https://github.com/git-guides/install-git
 
 ```
 pip install openai
-
+```
+```
 pip install streamlit
-
+```
+```
 pip install guardrails-ai
 ```

@@ -32,3 +32,10 @@ pip install streamlit
 ```
 pip install guardrails-ai
 ```
+
+## Additional Resources
+#### My YouTube Channel wit Free Conent on GenAI and LLM for Cybersecurity
+https://www.youtube.com/@CyberSuperhuman
+
+#### CyberSuperhuman.ai Courses on GenAI and LLM for Cybersecurity
+https://cybersuperhuman.ai/

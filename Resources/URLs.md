@@ -74,3 +74,6 @@ https://github.com/NVIDIA/NeMo-Guardrails
 
 #### NeMo-Guardrails/docs/getting_started/hello-world.md at main · NVIDIA/NeMo-Guardrails (github.com)
 https://github.com/NVIDIA/NeMo-Guardrails/blob/main/docs/getting_started/hello-world.md
+
+#### mckaywrigley/chatbot-ui: An open source ChatGPT UI. (github.com)
+https://github.com/mckaywrigley/chatbot-ui

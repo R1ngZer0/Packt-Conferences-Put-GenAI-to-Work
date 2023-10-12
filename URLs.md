@@ -1,7 +1,7 @@
 # Resource URLs for This Workshop
 
 ### OWASP Top 10 for Large Language Model Applications
-https://owasp.org/www-project-top-10-for-large-language-model-applications/
+
 
 ### OWASP Top 10 for Large Language Model Applications PDF, Version 1.0.1
 https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0_1.pdf

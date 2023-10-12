@@ -10,7 +10,9 @@ https://owasp.org/www-project-top-10-for-large-language-model-applications/asset
 
 ### OWASP Main Site
 https://owasp.org/
+
 ---
+
 ## Supply Chain Security & Model Security (Data Poisoning and Malicious Models)
 ### Arbitrary Code Execution in langchain | CVE-2023-29374 | Snyk
 https://security.snyk.io/vuln/SNYK-PYTHON-LANGCHAIN-5411357
@@ -20,7 +22,9 @@ https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-huggin
 
 ### Hugging Face – The AI community building the future.
 https://huggingface.co/
+
 ---
+
 ## LLM Plugins Security and Excessive Agency
 ### Plugin Vulnerabilities: Visit a Website and Have Your Source Code Stolen · Embrace The Red
 https://embracethered.com/blog/posts/2023/chatgpt-plugin-vulns-chat-with-code/
@@ -30,7 +34,9 @@ https://embracethered.com/blog/posts/2023/chatgpt-cross-plugin-request-forgery-a
 
 ### ChatGPT Plugin Exploit Explained: From Prompt Injection to Accessing Private Data · Embrace The Red
 https://embracethered.com/blog/posts/2023/chatgpt-cross-plugin-request-forgery-and-prompt-injection./
+
 ---
+
 ## Hands-on lab setup 
 ### Python.org
 https://www.python.org/
@@ -43,14 +49,18 @@ https://desktop.github.com/
 
 ### Git Guides - install git (github.com)
 https://github.com/git-guides/install-git
+
 ---
+
 ## Prompt Injection and “Jailbreaking” Security for LLM Applications 
 ### AI Injections: Direct and Indirect Prompt Injections and Their Implications · Embrace The Red
 https://embracethered.com/blog/posts/2023/ai-injections-direct-and-indirect-prompt-injection-basics/
 
 ### Prompt injection attack on ChatGPT steals chat data | System Weakness
 https://systemweakness.com/new-prompt-injection-attack-on-chatgpt-web-version-ef717492c5c2
+
 ---
+
 ## Implementing prompt and output validation using NVidea NeMo Guardrails 
 ### NVIDIA/NeMo-Guardrails: NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. (github.com)
 https://github.com/NVIDIA/NeMo-Guardrails
